@@ -4,7 +4,11 @@ Press the green flag and a random word will show up. Your goal is to type that w
 
 Press NEXT to go to the next letter in the alphabet and START to type that letter. If you accidentally press NEXT on the wrong letter, you have to cycle through the entire alphabet again, and if you press START on the wrong letter, it's game over.
 
+## Credits
+
 Scrabble word list from Jeff Boulter. It's an old list because I want to ensure the words are being used long term. I promise you won't find modern brainrot in the list.
+
+[Bad word detector](https://scratch.mit.edu/projects/408135462/) from Dhananjaya_Test.
 
 ## Example
 
